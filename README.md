@@ -14,6 +14,10 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=enriqueav99&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
 
+<img src="./github-metrics.svg" width="90%" alt="metrics" />
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3d contribution calendar" />
+
 <!-- snake-animation-start -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enriqueav99/enriqueav99/output/github-contribution-grid-snake-dark.svg" />
